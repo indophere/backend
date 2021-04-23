@@ -1,0 +1,3 @@
+access key          AKIATPNBSYMNC45OYT4Y
+
+secret key          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
